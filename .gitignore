@@ -1,0 +1,7 @@
+target
+.settings
+.classpath
+.project
+.idea
+.factorypath
+debug.log
