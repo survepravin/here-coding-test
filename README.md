@@ -28,12 +28,12 @@ import as maven project in any IDE, run maven commands
 clean install surefire-report:report
 ```
 
-**Note:** If tests fails then run ```mvn surefire-report:report``` separately to generate report. Report path : ```/SimulatorTest/target/site/surefire-report.html```
+**Note:** If tests fails then run ```mvn surefire-report:report``` separately to generate report. Report path : ```/here-coding-test/target/site/surefire-report.html```
 
 ## To run Application
 
 _**Autonomous Driving Simulator Test**_,
-after successful execution of the tests, jar file will be created at the path : ```/SimulatorTest/target/autonomous.driving.simulator.test-0.0.1.jar```
+after successful execution of the tests, jar file will be created at the path : ```/here-coding-test/target/autonomous.driving.simulator.test-0.0.1.jar```
 
 * Open cmd and navigate to target folder. Run this command ```java -jar autonomous.driving.simulator.test-0.0.1.jar``` 
 
